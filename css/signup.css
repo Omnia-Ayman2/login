@@ -1,0 +1,17 @@
+body{
+    background: #24353f;
+    font-family: initial;
+}
+.content input{
+    background: #24353f;
+    color: #fff !important;
+    background-color: transparent !important;
+
+}
+::placeholder{
+    color: #fff !important;
+
+}
+.content{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
